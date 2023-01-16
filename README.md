@@ -21,6 +21,8 @@ Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning example
 | [YoloV6](https://github.com/Qengineering/YoloV6-ncnn-Raspberry-Pi-4) | 640x640 nano | 80 | 35.0 | 10.5 FPS | 2.7 FPS |
 | [YoloV7](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4) | 412x412 tiny| 80 | 38.7 | 18.0 FPS | **4.43 FPS** |
 | [YoloV7](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4) | 640x640 tiny| 80 | 38.7 | 8.5 FPS | **2.1 FPS** |
+| [YoloV8](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) | 640x640 nano | 80 | 37.3 | 14.5 FPS | 3.1 FPS |
+| [YoloV8](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) | 640x640 small | 80 | 44.9 | 4.5 FPS | 1.47 FPS |
 | [YoloX](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4) | 416x416 nano | 80 | 25.8 | 22.6 FPS | 7.0 FPS |
 | [YoloX](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4) | 416x416 tiny | 80 | 32.8 | 11.35 FPS | 2.8 FPS |
 | [YoloX](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4) | 640x640 small | 80 | 40.5 | 3.65 FPS | 0.9 FPS |
